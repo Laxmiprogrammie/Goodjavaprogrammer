@@ -1,1 +1,14 @@
+public class Typecasting {
+    public static void main(String[] Args){
+        short  a = 32000;
+        int  b = a;   //widening implicity
+        int d = (int)a; //widening explicitly
+        System.out.println(b);
+        System.out.println(d);
 
+
+        char  meesho_orders = 62999;
+        byte  round_figure_value =(byte) meesho_orders;//narrowing explicityli
+        System.out.println(round_figure_value);
+    }
+}
