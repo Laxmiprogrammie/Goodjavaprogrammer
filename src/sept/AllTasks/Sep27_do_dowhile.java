@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 import java.util.Scanner;
 

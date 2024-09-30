@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 public class Sep30_Count_vowels_consonants {
     public static void main(String[] args) {

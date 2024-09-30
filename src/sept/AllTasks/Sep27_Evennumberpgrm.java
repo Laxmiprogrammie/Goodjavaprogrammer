@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 public class Sep27_Evennumberpgrm {
     public static void main(String[] args) {

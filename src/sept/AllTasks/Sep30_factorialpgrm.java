@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 public class Sep30_factorialpgrm {
     public static void main(String[] args) {

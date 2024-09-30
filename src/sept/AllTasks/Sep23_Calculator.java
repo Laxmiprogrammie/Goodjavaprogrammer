@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 public class Sep23_Calculator {
     public static void main(String[] Args)

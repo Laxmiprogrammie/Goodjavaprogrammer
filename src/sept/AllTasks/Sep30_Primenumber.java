@@ -1,4 +1,4 @@
-package sept.Tasks;
+package sept.AllTasks;
 
 public class Sep30_Primenumber {
     public static void main(String[] Args)
