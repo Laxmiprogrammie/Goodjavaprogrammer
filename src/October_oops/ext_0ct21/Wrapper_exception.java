@@ -2,6 +2,8 @@ package October_oops.ext_0ct21;
 
 public class Wrapper_exception {
     public static void main(String[] args) {
+
+        //wxception:event that occurs during the exceution of rogram
         System.out.println("Startingofprogram");
       String ip=args[0];
       String ip1=args[1];
